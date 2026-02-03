@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# Streamlit
+.streamlit/
+
+# Secrets
+*.key
+*.pem
+secrets.toml
+.env
+.env.local
+
+# API Keys
+api_keys.py
+config.py
+credentials.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files (optional - if you have large files)
+*.csv
+*.xlsx
+*.pkl
+*.h5
+*.npy
+data/
+datasets/
